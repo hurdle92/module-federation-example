@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoduleAppA=self.webpackChunkmoduleAppA||[]).push([[873,254],{5873:function(e,o,t){var a=t(8033);o.createRoot=a.createRoot,o.hydrateRoot=a.hydrateRoot}}]);

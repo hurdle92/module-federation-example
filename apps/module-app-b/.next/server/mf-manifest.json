@@ -1,0 +1,318 @@
+{
+  "id": "moduleAppB",
+  "name": "moduleAppB",
+  "metaData": {
+    "name": "moduleAppB",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "module-app-b"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "moduleAppB",
+    "pluginVersion": "0.1.15",
+    "publicPath": "/_next/"
+  },
+  "shared": [
+    {
+      "id": "moduleAppB:next/dynamic",
+      "name": "next/dynamic",
+      "version": "14.2.3",
+      "singleton": true,
+      "requiredVersion": "^14.2.3",
+      "assets": {
+        "js": {
+          "async": [
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
+          ],
+          "sync": [
+            "node_modules_next_dynamic_js-_4c2a0-30a67b5a2786c6ec.js",
+            "node_modules_next_dynamic_js-_4c2a1-b1f21c0c71668602.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "moduleAppB:next/head",
+      "name": "next/head",
+      "version": "14.2.3",
+      "singleton": true,
+      "requiredVersion": "^14.2.3",
+      "assets": {
+        "js": {
+          "async": [
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
+          ],
+          "sync": [
+            "node_modules_next_head_js-_6b380-3a15698704c8428c.js",
+            "node_modules_next_head_js-_6b381-93b04aec3a22c082.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "moduleAppB:next/image",
+      "name": "next/image",
+      "version": "14.2.3",
+      "singleton": true,
+      "requiredVersion": "^14.2.3",
+      "assets": {
+        "js": {
+          "async": [
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
+          ],
+          "sync": [
+            "node_modules_next_image_js-_39e90-e93fab2ae30b1065.js",
+            "node_modules_next_image_js-_39e91-9430d9fd0d3f3f53.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "moduleAppB:next/link",
+      "name": "next/link",
+      "version": "14.2.3",
+      "singleton": true,
+      "requiredVersion": "^14.2.3",
+      "assets": {
+        "js": {
+          "async": [
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
+          ],
+          "sync": [
+            "node_modules_next_link_js-_ba6f0-cd24ec4720a83973.js",
+            "node_modules_next_link_js-_ba6f1-e0acec8c637b0df1.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "moduleAppB:next/router",
+      "name": "next/router",
+      "version": "14.2.3",
+      "singleton": true,
+      "requiredVersion": "^14.2.3",
+      "assets": {
+        "js": {
+          "async": [
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
+          ],
+          "sync": [
+            "__federation_expose_next__router-17cea3a7686e1403.js",
+            "node_modules_next_router_js-0d1c17ec8ac0b3b8.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "moduleAppB:next/script",
+      "name": "next/script",
+      "version": "14.2.3",
+      "singleton": true,
+      "requiredVersion": "^14.2.3",
+      "assets": {
+        "js": {
+          "async": [
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
+          ],
+          "sync": [
+            "node_modules_next_script_js-_7ad30-79adcb3242f0f55e.js",
+            "node_modules_next_script_js-_7ad31-abd4ca92a64a8b61.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "moduleAppB:react/jsx-dev-runtime",
+      "name": "react/jsx-dev-runtime",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "node_modules_react_jsx-dev-runtime_js-c5d1fe0e8c14b73e.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "moduleAppB:react/jsx-runtime",
+      "name": "react/jsx-runtime",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "moduleAppB:styled-jsx",
+      "name": "styled-jsx",
+      "version": "5.1.1",
+      "singleton": true,
+      "requiredVersion": "^5.1.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "node_modules_styled-jsx_index_js-4c56e8dec65e2891.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "id": "moduleAppB:noop",
+      "name": "noop",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_noop-843e4b150305183c.js"
+          ],
+          "async": [
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js",
+            "node_modules_next_head_js-_6b380-3a15698704c8428c.js",
+            "node_modules_next_router_js-0d1c17ec8ac0b3b8.js",
+            "node_modules_next_link_js-_ba6f0-cd24ec4720a83973.js",
+            "node_modules_next_script_js-_7ad30-79adcb3242f0f55e.js",
+            "node_modules_next_image_js-_39e90-e93fab2ae30b1065.js",
+            "node_modules_next_dynamic_js-_4c2a0-30a67b5a2786c6ec.js",
+            "node_modules_styled-jsx_index_js-4c56e8dec65e2891.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./noop"
+    },
+    {
+      "id": "moduleAppB:react",
+      "name": "react",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_react-381b1fb295946809.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./react"
+    },
+    {
+      "id": "moduleAppB:react-dom",
+      "name": "react-dom",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_react_dom-5239353a1343a561.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./react-dom"
+    },
+    {
+      "id": "moduleAppB:next/router",
+      "name": "next/router",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_next__router-17cea3a7686e1403.js"
+          ],
+          "async": [
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./next/router"
+    },
+    {
+      "id": "moduleAppB:App",
+      "name": "App",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_App-23192a31aca82d01.js"
+          ],
+          "async": [
+            "node_modules_react_jsx-dev-runtime_js-c5d1fe0e8c14b73e.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./App"
+    }
+  ]
+}
