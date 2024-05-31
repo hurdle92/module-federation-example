@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "NEXT_PRIVATE_LOCAL_WEBPACK=true next dev --port 3002",
+    "dev": "NEXT_PRIVATE_LOCAL_WEBPACK=true next dev --port 4002",
     "build": "NEXT_PRIVATE_LOCAL_WEBPACK=true next build",
     "start": "next start",
     "lint": "eslint . --max-warnings 0"

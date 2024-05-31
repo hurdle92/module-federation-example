@@ -3,13 +3,12 @@ const NextFederationPlugin = require("@module-federation/nextjs-mf");
 /** @type {import('next').NextConfig} */
 
 const mfConfig = {
-  name: "moduleAppC",
+  name: "host",
   filename: "static/chunks/remoteEntry.js",
-  exposes: {
-    "./App": "./src/pages/_app.tsx",
-  },
   remotes: {
+    moduleAppA: `moduleAppA@http://localhost:4000/_next/static/chunks/remoteEntry.js`,
     moduleAppB: `moduleAppB@http://localhost:4001/_next/static/chunks/remoteEntry.js`,
+    moduleAppC: `moduleAppC@http://localhost:4002/_next/static/chunks/remoteEntry.js`,
   },
 };
 
