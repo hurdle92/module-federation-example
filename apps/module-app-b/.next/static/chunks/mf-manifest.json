@@ -330,9 +330,12 @@
             "static/chunks/__federation_expose_react.js",
             "static/chunks/node_modules_next_head_js-_6b381.js",
             "static/chunks/node_modules_next_router_js.js",
+            "static/webpack/node_modules_next_router_js.a2147e7ad90dcfca.hot-update.js",
             "static/chunks/node_modules_next_link_js-_ba6f1.js",
             "static/chunks/node_modules_next_script_js-_7ad31.js",
+            "static/webpack/node_modules_next_script_js-_7ad31.a2147e7ad90dcfca.hot-update.js",
             "static/chunks/node_modules_next_image_js-_39e91.js",
+            "static/webpack/node_modules_next_image_js-_39e91.a2147e7ad90dcfca.hot-update.js",
             "static/chunks/node_modules_next_dynamic_js-_4c2a1.js",
             "static/chunks/node_modules_styled-jsx_index_js-_a4db0.js",
             "static/chunks/node_modules_styled-jsx_style_js-_24f40.js",
@@ -388,7 +391,8 @@
       "assets": {
         "js": {
           "sync": [
-            "static/chunks/__federation_expose_next__router.js"
+            "static/chunks/__federation_expose_next__router.js",
+            "static/webpack/__federation_expose_next__router.a2147e7ad90dcfca.hot-update.js"
           ],
           "async": [
             "static/chunks/node_modules_react_jsx-runtime_js-_8e700.js",
@@ -409,8 +413,7 @@
       "assets": {
         "js": {
           "sync": [
-            "static/chunks/__federation_expose_App.js",
-            "static/webpack/__federation_expose_App.a3367bdc28eb4a4f.hot-update.js"
+            "static/chunks/__federation_expose_App.js"
           ],
           "async": [
             "static/chunks/__federation_expose_react.js",

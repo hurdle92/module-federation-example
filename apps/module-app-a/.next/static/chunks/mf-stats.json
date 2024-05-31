@@ -35,12 +35,12 @@
       "assets": {
         "js": {
           "async": [
-            "static/chunks/85.fb8f81e04d1b9b28.js",
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js"
+            "static/chunks/node_modules_react_jsx-runtime_js-_8e700.js",
+            "static/chunks/__federation_expose_react.js"
           ],
           "sync": [
-            "static/chunks/513.f1395fa23296fc22.js",
-            "static/chunks/894.9d13565b968fb42a.js"
+            "static/chunks/node_modules_next_dynamic_js-_4c2a0.js",
+            "static/chunks/node_modules_next_dynamic_js-_4c2a1.js"
           ]
         },
         "css": {
@@ -61,12 +61,12 @@
       "assets": {
         "js": {
           "async": [
-            "static/chunks/85.fb8f81e04d1b9b28.js",
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js"
+            "static/chunks/node_modules_react_jsx-runtime_js-_8e700.js",
+            "static/chunks/__federation_expose_react.js"
           ],
           "sync": [
-            "static/chunks/38.ccf0c389ea624bde.js",
-            "static/chunks/657.a41e24092c5bbe44.js"
+            "static/chunks/node_modules_next_head_js-_6b380.js",
+            "static/chunks/node_modules_next_head_js-_6b381.js"
           ]
         },
         "css": {
@@ -87,13 +87,13 @@
       "assets": {
         "js": {
           "async": [
-            "static/chunks/85.fb8f81e04d1b9b28.js",
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js",
-            "static/chunks/__federation_expose_react_dom.61a4b8348d4e4a8d.js"
+            "static/chunks/node_modules_react_jsx-runtime_js-_8e700.js",
+            "static/chunks/__federation_expose_react.js",
+            "static/chunks/node_modules_react-dom_index_js.js"
           ],
           "sync": [
-            "static/chunks/338.1fa9542fc16a45ac.js",
-            "static/chunks/957.f9e8501adf21ec44.js"
+            "static/chunks/node_modules_next_image_js-_39e90.js",
+            "static/chunks/node_modules_next_image_js-_39e91.js"
           ]
         },
         "css": {
@@ -114,12 +114,12 @@
       "assets": {
         "js": {
           "async": [
-            "static/chunks/85.fb8f81e04d1b9b28.js",
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js"
+            "static/chunks/node_modules_react_jsx-runtime_js-_8e700.js",
+            "static/chunks/__federation_expose_react.js"
           ],
           "sync": [
-            "static/chunks/128.4742d7125d74542c.js",
-            "static/chunks/747.e64de553f3b1ff44.js"
+            "static/chunks/node_modules_next_link_js-_ba6f0.js",
+            "static/chunks/node_modules_next_link_js-_ba6f1.js"
           ]
         },
         "css": {
@@ -140,13 +140,13 @@
       "assets": {
         "js": {
           "async": [
-            "static/chunks/__federation_expose_react_dom.61a4b8348d4e4a8d.js",
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js",
-            "static/chunks/85.fb8f81e04d1b9b28.js"
+            "static/chunks/node_modules_react_jsx-runtime_js-_8e700.js",
+            "static/chunks/__federation_expose_react.js",
+            "static/chunks/node_modules_react-dom_index_js.js"
           ],
           "sync": [
-            "static/chunks/242.915c813f2ba19854.js",
-            "static/chunks/__federation_expose_next__router.c57574e39bd20126.js"
+            "static/chunks/__federation_expose_next__router.js",
+            "static/chunks/node_modules_next_router_js.js"
           ]
         },
         "css": {
@@ -167,35 +167,13 @@
       "assets": {
         "js": {
           "async": [
-            "static/chunks/__federation_expose_react_dom.61a4b8348d4e4a8d.js",
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js",
-            "static/chunks/85.fb8f81e04d1b9b28.js"
+            "static/chunks/node_modules_react_jsx-runtime_js-_8e700.js",
+            "static/chunks/__federation_expose_react.js",
+            "static/chunks/node_modules_react-dom_index_js.js"
           ],
           "sync": [
-            "static/chunks/615.ed0811914073627a.js",
-            "static/chunks/996.664fc8cc8f215fae.js"
-          ]
-        },
-        "css": {
-          "async": [],
-          "sync": []
-        }
-      },
-      "usedIn": []
-    },
-    {
-      "id": "moduleAppA:react-dom/client",
-      "name": "react-dom/client",
-      "version": "18.3.1",
-      "assets": {
-        "js": {
-          "async": [
-            "static/chunks/__federation_expose_react_dom.61a4b8348d4e4a8d.js",
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js"
-          ],
-          "sync": [
-            "static/chunks/254.7ab2c00ee6868881.js",
-            "static/chunks/873.f0f0e848e1b0ae02.js"
+            "static/chunks/node_modules_next_script_js-_7ad30.js",
+            "static/chunks/node_modules_next_script_js-_7ad31.js"
           ]
         },
         "css": {
@@ -216,10 +194,11 @@
       "assets": {
         "js": {
           "async": [
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js"
+            "static/chunks/__federation_expose_react.js"
           ],
           "sync": [
-            "static/chunks/__federation_expose_react_dom.61a4b8348d4e4a8d.js"
+            "static/chunks/__federation_expose_react_dom.js",
+            "static/chunks/node_modules_react-dom_index_js.js"
           ]
         },
         "css": {
@@ -240,11 +219,11 @@
       "assets": {
         "js": {
           "async": [
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js"
+            "static/chunks/__federation_expose_react.js"
           ],
           "sync": [
-            "static/chunks/85.fb8f81e04d1b9b28.js",
-            "static/chunks/466.09752e8c51a1564c.js"
+            "static/chunks/node_modules_react_jsx-runtime_js-_8e700.js",
+            "static/chunks/node_modules_react_jsx-runtime_js-_8e701.js"
           ]
         },
         "css": {
@@ -266,7 +245,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js"
+            "static/chunks/__federation_expose_react.js"
           ]
         },
         "css": {
@@ -287,11 +266,11 @@
       "assets": {
         "js": {
           "async": [
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js"
+            "static/chunks/__federation_expose_react.js"
           ],
           "sync": [
-            "static/chunks/260.6967c3eb8b552086.js",
-            "static/chunks/879.2f526f030dc146f7.js"
+            "static/chunks/node_modules_styled-jsx_style_js-_24f40.js",
+            "static/chunks/node_modules_styled-jsx_style_js-_24f41.js"
           ]
         },
         "css": {
@@ -312,11 +291,11 @@
       "assets": {
         "js": {
           "async": [
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js"
+            "static/chunks/__federation_expose_react.js"
           ],
           "sync": [
-            "static/chunks/198.053c4f420b62ce77.js",
-            "static/chunks/817.0b94e42629c579f2.js"
+            "static/chunks/node_modules_styled-jsx_index_js-_a4db0.js",
+            "static/chunks/node_modules_styled-jsx_index_js-_a4db1.js"
           ]
         },
         "css": {
@@ -327,18 +306,7 @@
       "usedIn": []
     }
   ],
-  "remotes": [
-    {
-      "alias": "moduleAppB",
-      "consumingFederationContainerName": "moduleAppA",
-      "federationContainerName": "moduleAppB",
-      "moduleName": "App",
-      "usedIn": [
-        "src/pages/_app.tsx"
-      ],
-      "entry": "http://localhost:3001/_next/static/chunks/remoteEntry.js"
-    }
-  ],
+  "remotes": [],
   "exposes": [
     {
       "path": "./noop",
@@ -349,20 +317,21 @@
       "assets": {
         "js": {
           "sync": [
-            "static/chunks/__federation_expose_noop.0d3c7f2d0d06c93e.js"
+            "static/chunks/__federation_expose_noop.js"
           ],
           "async": [
-            "static/chunks/85.fb8f81e04d1b9b28.js",
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js",
-            "static/chunks/38.ccf0c389ea624bde.js",
-            "static/chunks/242.915c813f2ba19854.js",
-            "static/chunks/128.4742d7125d74542c.js",
-            "static/chunks/615.ed0811914073627a.js",
-            "static/chunks/957.f9e8501adf21ec44.js",
-            "static/chunks/513.f1395fa23296fc22.js",
-            "static/chunks/817.0b94e42629c579f2.js",
-            "static/chunks/879.2f526f030dc146f7.js",
-            "static/chunks/__federation_expose_react_dom.61a4b8348d4e4a8d.js"
+            "static/chunks/node_modules_next_head_js-_6b381.js",
+            "static/chunks/node_modules_next_router_js.js",
+            "static/webpack/node_modules_next_router_js.e8322d1181221f35.hot-update.js",
+            "static/chunks/node_modules_next_link_js-_ba6f1.js",
+            "static/chunks/node_modules_next_script_js-_7ad31.js",
+            "static/chunks/node_modules_next_image_js-_39e91.js",
+            "static/chunks/node_modules_next_dynamic_js-_4c2a1.js",
+            "static/chunks/node_modules_react_jsx-runtime_js-_8e700.js",
+            "static/chunks/__federation_expose_react.js",
+            "static/chunks/node_modules_styled-jsx_index_js-_a4db0.js",
+            "static/chunks/node_modules_styled-jsx_style_js-_24f40.js",
+            "static/chunks/node_modules_react-dom_index_js.js"
           ]
         },
         "css": {
@@ -380,7 +349,7 @@
       "assets": {
         "js": {
           "sync": [
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js"
+            "static/chunks/__federation_expose_react.js"
           ],
           "async": []
         },
@@ -399,10 +368,10 @@
       "assets": {
         "js": {
           "sync": [
-            "static/chunks/__federation_expose_react_dom.61a4b8348d4e4a8d.js"
+            "static/chunks/__federation_expose_react_dom.js"
           ],
           "async": [
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js"
+            "static/chunks/__federation_expose_react.js"
           ]
         },
         "css": {
@@ -420,12 +389,13 @@
       "assets": {
         "js": {
           "sync": [
-            "static/chunks/__federation_expose_next__router.c57574e39bd20126.js"
+            "static/chunks/__federation_expose_next__router.js",
+            "static/webpack/__federation_expose_next__router.e8322d1181221f35.hot-update.js"
           ],
           "async": [
-            "static/chunks/85.fb8f81e04d1b9b28.js",
-            "static/chunks/__federation_expose_react.a18309970337dcbc.js",
-            "static/chunks/__federation_expose_react_dom.61a4b8348d4e4a8d.js"
+            "static/chunks/node_modules_react_jsx-runtime_js-_8e700.js",
+            "static/chunks/__federation_expose_react.js",
+            "static/chunks/node_modules_react-dom_index_js.js"
           ]
         },
         "css": {

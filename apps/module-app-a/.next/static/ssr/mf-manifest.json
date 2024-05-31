@@ -33,11 +33,11 @@
       "assets": {
         "js": {
           "async": [
-            "85-22ded50f741ba670.js"
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
           ],
           "sync": [
-            "513-433a9371aadef1c5.js",
-            "894-65c79ae2f986f64d.js"
+            "node_modules_next_dynamic_js-_4c2a0-30a67b5a2786c6ec.js",
+            "node_modules_next_dynamic_js-_4c2a1-b1f21c0c71668602.js"
           ]
         },
         "css": {
@@ -55,11 +55,11 @@
       "assets": {
         "js": {
           "async": [
-            "85-22ded50f741ba670.js"
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
           ],
           "sync": [
-            "38-d4de2a04b311dd8c.js",
-            "657-047929e052f37471.js"
+            "node_modules_next_head_js-_6b380-3a15698704c8428c.js",
+            "node_modules_next_head_js-_6b381-93b04aec3a22c082.js"
           ]
         },
         "css": {
@@ -77,11 +77,11 @@
       "assets": {
         "js": {
           "async": [
-            "85-22ded50f741ba670.js"
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
           ],
           "sync": [
-            "338-ae7f3ed2b508a5b2.js",
-            "957-ce6d1854e4b4e250.js"
+            "node_modules_next_image_js-_39e90-e93fab2ae30b1065.js",
+            "node_modules_next_image_js-_39e91-9430d9fd0d3f3f53.js"
           ]
         },
         "css": {
@@ -99,11 +99,11 @@
       "assets": {
         "js": {
           "async": [
-            "85-22ded50f741ba670.js"
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
           ],
           "sync": [
-            "128-18fd7aebb83161cb.js",
-            "747-29490ec6df3cba95.js"
+            "node_modules_next_link_js-_ba6f0-cd24ec4720a83973.js",
+            "node_modules_next_link_js-_ba6f1-e0acec8c637b0df1.js"
           ]
         },
         "css": {
@@ -121,11 +121,11 @@
       "assets": {
         "js": {
           "async": [
-            "85-22ded50f741ba670.js"
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
           ],
           "sync": [
-            "242-e3798270710d6fed.js",
-            "__federation_expose_next__router-6a374aa24a85ae6f.js"
+            "__federation_expose_next__router-17cea3a7686e1403.js",
+            "node_modules_next_router_js-0d1c17ec8ac0b3b8.js"
           ]
         },
         "css": {
@@ -143,11 +143,11 @@
       "assets": {
         "js": {
           "async": [
-            "85-22ded50f741ba670.js"
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
           ],
           "sync": [
-            "615-6b26359fa3a73723.js",
-            "996-9b20a2428b6cb13d.js"
+            "node_modules_next_script_js-_7ad30-79adcb3242f0f55e.js",
+            "node_modules_next_script_js-_7ad31-abd4ca92a64a8b61.js"
           ]
         },
         "css": {
@@ -166,7 +166,7 @@
         "js": {
           "async": [],
           "sync": [
-            "85-22ded50f741ba670.js"
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
           ]
         },
         "css": {
@@ -185,7 +185,7 @@
         "js": {
           "async": [],
           "sync": [
-            "817-544c6cde85244ce2.js"
+            "node_modules_styled-jsx_index_js-4c56e8dec65e2891.js"
           ]
         },
         "css": {
@@ -195,14 +195,7 @@
       }
     }
   ],
-  "remotes": [
-    {
-      "federationContainerName": "moduleAppB",
-      "moduleName": "App",
-      "alias": "moduleAppB",
-      "entry": "http://localhost:3001/_next/static/chunks/remoteEntry.js"
-    }
-  ],
+  "remotes": [],
   "exposes": [
     {
       "id": "moduleAppA:noop",
@@ -210,17 +203,17 @@
       "assets": {
         "js": {
           "sync": [
-            "__federation_expose_noop-f1bc1303f4a3838c.js"
+            "__federation_expose_noop-843e4b150305183c.js"
           ],
           "async": [
-            "85-22ded50f741ba670.js",
-            "38-d4de2a04b311dd8c.js",
-            "242-e3798270710d6fed.js",
-            "128-18fd7aebb83161cb.js",
-            "615-6b26359fa3a73723.js",
-            "957-ce6d1854e4b4e250.js",
-            "513-433a9371aadef1c5.js",
-            "817-544c6cde85244ce2.js"
+            "node_modules_next_head_js-_6b380-3a15698704c8428c.js",
+            "node_modules_next_router_js-0d1c17ec8ac0b3b8.js",
+            "node_modules_next_link_js-_ba6f0-cd24ec4720a83973.js",
+            "node_modules_next_script_js-_7ad30-79adcb3242f0f55e.js",
+            "node_modules_next_image_js-_39e90-e93fab2ae30b1065.js",
+            "node_modules_next_dynamic_js-_4c2a0-30a67b5a2786c6ec.js",
+            "node_modules_styled-jsx_index_js-4c56e8dec65e2891.js",
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
           ]
         },
         "css": {
@@ -236,7 +229,7 @@
       "assets": {
         "js": {
           "sync": [
-            "__federation_expose_react-7a1ba05166f6ae0f.js"
+            "__federation_expose_react-381b1fb295946809.js"
           ],
           "async": []
         },
@@ -253,7 +246,7 @@
       "assets": {
         "js": {
           "sync": [
-            "__federation_expose_react_dom-f5e54b807c10e893.js"
+            "__federation_expose_react_dom-5239353a1343a561.js"
           ],
           "async": []
         },
@@ -270,10 +263,10 @@
       "assets": {
         "js": {
           "sync": [
-            "__federation_expose_next__router-6a374aa24a85ae6f.js"
+            "__federation_expose_next__router-17cea3a7686e1403.js"
           ],
           "async": [
-            "85-22ded50f741ba670.js"
+            "node_modules_react_jsx-runtime_js-e99bf713a2994802.js"
           ]
         },
         "css": {

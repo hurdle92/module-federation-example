@@ -7,6 +7,7 @@ const mfConfig = {
   filename: "static/chunks/remoteEntry.js",
   remotes: {
     moduleAppB: `moduleAppB@http://localhost:3001/_next/static/chunks/remoteEntry.js`,
+    moduleAppC: `moduleAppC@http://localhost:3002/_next/static/chunks/remoteEntry.js`,
   },
 };
 

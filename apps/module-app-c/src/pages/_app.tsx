@@ -5,8 +5,9 @@ function App() {
   const ModuleAppB = lazy(() => import("moduleAppB/App"));
 
   return (
-    <div style={{ backgroundColor: "pink" }}>
+    <div style={{ backgroundColor: "blue" }}>
       <h1>Module App C</h1>
+      <h2>Moudle App C Loaded</h2>
       <div>
         <h2>Module App B</h2>
         <Suspense fallback={<div>loading Module App B</div>}>
